@@ -1,4 +1,4 @@
-/* hw 3_1 alexis eve - user-input breakpoint file */
+/* user-input breakpoint file */
 
 #include <stdio.h>
 #include <stdlib.h>
